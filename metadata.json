@@ -1,0 +1,7 @@
+{
+  "name": "Trackifly",
+  "description": "An intelligent price monitoring and trip planning assistant that tracks products, predicts drops, and helps plan budget-friendly travel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
